@@ -1,9 +1,7 @@
 ---
 title: "Renewable energy project implementation in Africa: Ensuring
   sustainability through community acceptability"
-subtitle: "•\tS.H.Antwi, D.Ley (2020). Renewable energy project implementation
-  in Africa: Ensuring sustainability through com-munity acceptability.
-  Scientific African  https://doi.org/10.1016/j.sciaf.2020.e00679"
+subtitle: ""
 publication_types:
   - "2"
 doi: https://doi.org/10.1016/j.sciaf.2020.e00679
