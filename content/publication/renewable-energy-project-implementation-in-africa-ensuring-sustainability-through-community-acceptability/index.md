@@ -5,6 +5,7 @@ subtitle: ""
 publication_types:
   - "2"
 doi: https://doi.org/10.1016/j.sciaf.2020.e00679
+publication: "Scientific African  "
 draft: false
 featured: false
 image:
